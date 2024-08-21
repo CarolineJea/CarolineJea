@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarolineJea
-- 👀 I’m interested in learning how to code and digital marketing...
+- 👀 I’m interested in learning how to code and digital marketing
 - 🌱 I’m currently learning everything with Sayna elearning platform
-- 📫 How to reach me nefeyo@gmail.com ...
+- 📫 How to reach me nefeyo@gmail.com 
 
 
 <!---
